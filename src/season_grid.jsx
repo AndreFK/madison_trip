@@ -2,10 +2,10 @@ import React, { useState } from 'react';
 import { Dialog } from '@mui/material';
 
 const seasonImages = [
-  { src: '/fall1.jpg', alt: 'Madison in Fall - 1' },
-  { src: '/fall2.jpg', alt: 'Madison in Fall - 2' },
-  { src: '/winter1.jpg', alt: 'Madison in Winter - 1' },
-  { src: '/winter2.jpg', alt: 'Madison in Winter - 2' },
+  { src: '/madison_trip/fall1.jpg', alt: 'Madison in Fall - 1' },
+  { src: '/madison_trip/fall2.jpg', alt: 'Madison in Fall - 2' },
+  { src: '/madison_trip/winter1.jpg', alt: 'Madison in Winter - 1' },
+  { src: '/madison_trip/winter2.jpg', alt: 'Madison in Winter - 2' },
 ];
 
 const SeasonGrid = () => {

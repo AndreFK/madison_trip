@@ -2,11 +2,11 @@ import React from 'react';
 import Slider from 'react-slick';
 
 const hikingImages = [
-  { src: '/picnic_point.jpeg', alt: 'Picnic Point Trail' },
-  { src: '/arboretum_trail.jpg', alt: 'UW Arboretum Path' },
-  { src: '/devils_lake.jpg', alt: "Devil's Lake" },
-  { src: '/edna_taylor.jpg', alt: 'Edna Taylor Conservation Park' },
-  { src: '/lower_yahara.jpg', alt: 'Lower Yahara River Trail' },
+  { src: '/madison_trip/picnic_point.jpeg', alt: 'Picnic Point Trail' },
+  { src: '/madison_trip/arboretum_trail.jpg', alt: 'UW Arboretum Path' },
+  { src: '/madison_trip/devils_lake.jpg', alt: "Devil's Lake" },
+  { src: '/madison_trip/edna_taylor.jpg', alt: 'Edna Taylor Conservation Park' },
+  { src: '/madison_trip/lower_yahara.jpg', alt: 'Lower Yahara River Trail' },
 ];
 
 const HikingCarousel = () => {

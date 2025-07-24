@@ -21,7 +21,7 @@ const HeroSection = () => {
       }}
     >
       <img
-        src="/madison_og.jpg"
+        src="/madison_trip/madison_og.jpg"
         alt="Hero"
         style={{
           position: 'absolute',
